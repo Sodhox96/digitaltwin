@@ -1,0 +1,1 @@
+docker run -p 5433:5432 --name postgres --hostname postgres tanhj/digitaltwin:postgres
